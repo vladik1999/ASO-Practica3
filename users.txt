@@ -1,0 +1,8 @@
+administrator@IESMVM\enterprise admins@/home/IESMVM/administrator
+pruebaaaa222@BUILTIN\users@/home/IESMVM/pruebaaaa222
+pruebaaaa22@BUILTIN\users@/home/IESMVM/pruebaaaa22
+jordicasas@IESMVM\newgroup2@/home/IESMVM/jordicasas
+aaaawwwww@IESMVM\adadawff@/home/IESMVM/aaaawwwww
+pepe_usr@BUILTIN\users@/home/IESMVM/pepe_usr
+krbtgt@IESMVM\denied rodc password replication group@/home/IESMVM/krbtgt
+guest@BUILTIN\guests@/home/IESMVM/guest

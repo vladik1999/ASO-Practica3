@@ -1,0 +1,8 @@
+IESMVM\administrator
+IESMVM\pruebaaaa222
+IESMVM\pruebaaaa22
+IESMVM\jordicasas
+IESMVM\aaaawwwww
+IESMVM\pepe_usr
+IESMVM\krbtgt
+IESMVM\guest
